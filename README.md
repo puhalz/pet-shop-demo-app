@@ -2,7 +2,7 @@
 
 A simple Spring Boot **Pet Shop API** with `GET` and `POST` endpoints for managing pets.
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Java 21**
 - **Maven 3.6.3**
 - **Spring Boot 3.5.0-M2**
@@ -19,13 +19,18 @@ A simple Spring Boot **Pet Shop API** with `GET` and `POST` endpoints for managi
 ```sh
 git clone https://github.com/puhalz/pet-shop-demo-app.git
 cd pet-shop-demo-app
+```
 
 ## ⚙️ Installation & Setup
+```sh
 mvn spring-boot:run
+```
 
 ### API Docs
+```sh
 Swagger UI → http://localhost:8080/swagger-ui.html
 JSON API Docs → http://localhost:8080/v3/api-docs
-YAML API Docs → http://localhost:8080/v3/api-docs.yaml 
+YAML API Docs → http://localhost:8080/v3/api-docs.yaml
+```
 
 
